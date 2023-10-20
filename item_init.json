@@ -1,0 +1,50 @@
+{
+    "0": {
+        "name": "apple",
+        "price": "120",
+        "stock": "40",
+        "sold": "0"
+    },
+    "1": {
+        "name": "orange",
+        "price": "110",
+        "stock": "35",
+        "sold": "0"
+    },
+    "2": {
+        "name": "coke",
+        "price": "120",
+        "stock": "50",
+        "sold": "0"
+    },
+    "3": {
+        "name": "cokezero",
+        "price": "110",
+        "stock": "50",
+        "sold": "0"
+    },
+    "4": {
+        "name": "water",
+        "price": "100",
+        "stock": "40",
+        "sold": "0"
+    },
+    "5": {
+        "name": "hotcoffee",
+        "price": "120",
+        "stock": "30",
+        "sold": "0"
+    },
+    "6": {
+        "name": "icecoffee",
+        "price": "120",
+        "stock": "20",
+        "sold": "0"
+    },
+    "7": {
+        "name": "test",
+        "price": "5",
+        "stock": "3",
+        "sold": "0"
+    }
+}

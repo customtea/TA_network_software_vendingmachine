@@ -1,0 +1,58 @@
+{
+    "0": {
+        "iid": "0",
+        "name": "apple",
+        "price": 120,
+        "stock": 35,
+        "sold": 5
+    },
+    "1": {
+        "iid": "1",
+        "name": "orange",
+        "price": 110,
+        "stock": 35,
+        "sold": 0
+    },
+    "2": {
+        "iid": "2",
+        "name": "coke",
+        "price": 120,
+        "stock": 46,
+        "sold": 4
+    },
+    "3": {
+        "iid": "3",
+        "name": "cokezero",
+        "price": 110,
+        "stock": 46,
+        "sold": 4
+    },
+    "4": {
+        "iid": "4",
+        "name": "water",
+        "price": 100,
+        "stock": 39,
+        "sold": 1
+    },
+    "5": {
+        "iid": "5",
+        "name": "hotcoffee",
+        "price": 120,
+        "stock": 29,
+        "sold": 1
+    },
+    "6": {
+        "iid": "6",
+        "name": "icecoffee",
+        "price": 120,
+        "stock": 20,
+        "sold": 0
+    },
+    "7": {
+        "iid": "7",
+        "name": "test",
+        "price": 5,
+        "stock": 2,
+        "sold": 1
+    }
+}
